@@ -1,1 +1,11 @@
-T3s was a game that I've developed in 2020, during a pandemic lockdown. It's a remake of an original Tetris game developed for Nintendo Entertainment System. The game was made in Gamemaker Studio.
+T3s
+
+T3s is a game that I've developed in 2020, during a pandemic lockdown. It's a remake of Tetris developed 
+for Nintendo Entertainment System (or NES). The game was made in Gamemaker Studio. The original GameMaker 
+source files are available in the "T3s" folder and are dedicated to the public domain.
+
+Credits:
+Based on Tetris videogame originally designed and developed by Alexey Pajitnov.  "Tetris" and "tetriminos" 
+are trademarks of Tetris Holding LLC. All rights reserved. The music was originally written by Pyotr 
+Ilyich Tchikovsky for the ballet "The Nutcracker". The music and sounds were aranged by Hirokazu Tanaka 
+for the NES version of the game.
