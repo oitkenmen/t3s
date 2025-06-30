@@ -1,0 +1,1 @@
+btn_down = virtual_key_add(132, 936, 104, 80, keycode);

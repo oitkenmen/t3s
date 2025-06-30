@@ -1,0 +1,1 @@
+btn_cw = virtual_key_add(480, 776, 96, 96, keycode);

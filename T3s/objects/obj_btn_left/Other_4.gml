@@ -1,0 +1,1 @@
+btn_left = virtual_key_add(64, 844, 80, 104, keycode);

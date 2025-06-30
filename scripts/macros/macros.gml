@@ -1,2 +1,0 @@
-#macro CELL_SIZE 32
-#macro GRID_OFFSET 64

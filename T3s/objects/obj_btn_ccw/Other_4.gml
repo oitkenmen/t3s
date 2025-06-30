@@ -1,0 +1,1 @@
+btn_ccw = virtual_key_add(384, 872, 96, 96, keycode);

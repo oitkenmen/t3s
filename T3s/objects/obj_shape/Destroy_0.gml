@@ -1,0 +1,1 @@
+with obj_controller alarm[0] = room_speed / 2;
